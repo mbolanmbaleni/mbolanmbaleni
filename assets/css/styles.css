@@ -302,6 +302,9 @@ img {
 .skills_80 {
   width: 80%;
 }
+.skills_75{
+  width: 75%;
+}
 .skills__img {
   border-radius: 0.5rem;
 }
